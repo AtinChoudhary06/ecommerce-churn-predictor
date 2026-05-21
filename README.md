@@ -3,7 +3,7 @@
 A machine learning web application that predicts whether an e-commerce customer is likely to churn, built with Python, Scikit-learn, and Streamlit — deployed on Render.
 
 ## 🔗 Live Demo
-👉 [Click here to view the app](#) <!-- Replace with your Render URL -->
+👉 [Click here to view the app](https://ecommerce-churn-predictor-gdmt.onrender.com/) <!-- Replace with your Render URL -->
 
 ---
 
